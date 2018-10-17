@@ -29,7 +29,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [File Storage and Manipulation](#file-storage-and-manipulation)
 - [Finance](#finance)
 - [Fitness](#fitness)
-- [Google](#google)
+- [Google](#google) 
 - [Identity Verification](#identity-verification)
 - [Image Moderation](#image-moderation)
 - [IoT](#iot)
